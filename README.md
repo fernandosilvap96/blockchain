@@ -80,19 +80,16 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
-  <h3 align="center">Criação da Crypto wallet</h3>
+  <h3 align="center">Bitcoin core - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira para criptomoedas.
+    Tutorial de como criar uma carteira Bitcoin core.
     <br />
     <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -104,19 +101,16 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
-  <h3 align="center">Criação da Crypto wallet</h3>
+  <h3 align="center">Electrum - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira para criptomoedas.
+    Tutorial de como criar uma carteira Electrum.
     <br />
     <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -127,19 +121,16 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
-  <h3 align="center">Criação da Crypto wallet</h3>
+  <h3 align="center">Metamask - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira para criptomoedas.
+    Tutorial de como criar uma carteira Metamask.
     <br />
     <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -151,19 +142,16 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
-  <h3 align="center">Criação da Crypto wallet</h3>
+  <h3 align="center">Trust - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira para criptomoedas.
+    Tutorial de como criar uma carteira Trust.
     <br />
     <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
