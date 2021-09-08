@@ -17,7 +17,7 @@
      <li>
        <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
        <ul>
-         <li><a href="#bitcoin-core">Bitcoin Core</a></li>
+         <li><a href="<!-- Crypto wallet - Bitcoin core -->">Bitcoin Core</a></li>
          <li><a href="#electrum">Electrum</a></li>
          <li><a href="#metamask">Metamask</a></li>
          <li><a href="#trust-wallet">Trust wallet</a></li>
@@ -72,7 +72,6 @@ Primeiro escolha um software de wallet(carteiras com criptográfia):
 
 Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta escolher a que mais se adequa ao seu objetivo.
 
-### Bitcoin Core
 <!-- Crypto wallet - Bitcoin core -->
 <br />
 <p align="center">
