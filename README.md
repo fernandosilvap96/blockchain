@@ -84,7 +84,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 
   <p align="center">
     <br />
-    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de uso »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
     <br />
     <a href="https://bitcoincore.org/en/download/">Download</a>
@@ -102,12 +102,11 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Electrum - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira Electrum.
     <br />
-    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
 </p>
 
@@ -122,12 +121,11 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Metamask - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira Metamask.
     <br />
-    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
 </p>
 
@@ -142,12 +140,11 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Trust - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira Trust.
     <br />
-    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
 </p>
 
