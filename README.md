@@ -15,7 +15,7 @@
        <a href="#inicio">Informações básicas para começar a sua jornada</a>
      </li>  
      <li>
-       <a href="#crypto-wallet">Criando a Crypto wallet</a>
+       <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
        <ul>
          <li><a href="#built-with">Built With</a></li>
         </ul>
@@ -54,7 +54,7 @@
 
 
 <!-- Criando a carteira para Criptomoedas -->
-## Crypto wallet
+## Carteira de criptomoedas
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -62,18 +62,16 @@ Para interagir com a blockchain do bitcoin, ethereum e demais criptoativos é ne
 
 Neste tópico aprenda a fazer a sua carteira de criptomoedas de modo facil e rápido.
 
-Primeiro escolha um software de wallet:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Primeiro escolha um software de wallet(carteiras com criptográfia):
+* Electrum
+* Bitcoin core
+* Metamask
+* Trust wallet
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Cada wallet possui diferentes caracteristicas e finalidades. 
+Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta escolher a que mais se adequa ao seu objetivo.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-
-
-<!-- Crypto wallet - Carteira Bitcoin -->
+<!-- Crypto wallet - Bitcoin core -->
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/bitcoin_wallet">
@@ -96,7 +94,55 @@ A list of commonly used resources that I find helpful are listed in the acknowle
   </p>
 </p>
 
-<!-- Crypto wallet - Carteira Electrum -->
+
+<!-- Crypto wallet - Electrum -->
+<br />
+<p align="center">
+  <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
+    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+  </a>
+
+  <h3 align="center">Criação da Crypto wallet</h3>
+
+  <p align="center">
+    Tutorial de como criar uma carteira para criptomoedas.
+    <br />
+    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- Crypto wallet - Metamask -->
+<br />
+<p align="center">
+  <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
+    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+  </a>
+
+  <h3 align="center">Criação da Crypto wallet</h3>
+
+  <p align="center">
+    Tutorial de como criar uma carteira para criptomoedas.
+    <br />
+    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
+
+<!-- Crypto wallet - Trust Wallet -->
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
