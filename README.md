@@ -49,22 +49,27 @@ Blockchain é um tipo de banco de dados que usa criptográfia para armazenar as 
 
 Essa alta segurança no armazenamento de informações é um dos motivos que tornam a Blockchain uma tecnologia muito promissora. Atualmente o principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
 
-Criptomoedas possuem esse nome justamente por serem transações criptográficas entre pessoas, ou melhor, entre carteiras digitais.
+Criptomoedas possuem esse nome justamente por serem transações feitas com criptográfia entre pessoas, ou melhor, entre carteiras digitais.
 A mais famosa criptomoeda é o bitcoin.
 
 O bitcoin só existe por que há uma Blockchain para ele, um fator importante é que todas as transações e até mesmo as carteiras estão dentro da Blockchain, por isso você deve entender como funciona a tecnologia para não correr riscos desnecessários.
 
 Diferentemente dos bancos tradicionais(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
-Você é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
+Você é responsável pela sua carteira, devendo portanto lembrar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
 Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório irei demonstrar 2 caminhos, o primeiro criando uma carteira(Crypto wallet) e o segundo via corretoras de criptoativos.
 
+Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
+https://blog.nubank.com.br/o-que-e-bitcoin/
+https://blog.nubank.com.br/o-que-e-blockchain/
+
 **_Termos relacionados a tecnologia_**:
->conta bacária = carteira
+>Carteira = conta bancária
 
->informações na Blockchain = transações
+>Criptomoedas = transações entre carteiras dentro da Blockchain
 
+>Blockchain = Banco de dados com criptográfia
 
 <!-- Criando a carteira para Criptomoedas -->
 ## Carteira de criptomoedas
