@@ -60,6 +60,7 @@ Cada um é responsável pela sua carteira, devendo portanto sempre guardar o có
 
 **_Termos relacionados a tecnologia_**:
 >carteira = conta bancária
+
 >informações na Blockchain = transações
 
 
