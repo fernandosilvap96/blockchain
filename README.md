@@ -100,7 +100,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <p align="center">
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
-    <a href="https://bitcoincore.org/en/download/">Download</a>
+    <a href="https://electrum.org/#download">Download</a>
   </p>
 </p>
 
@@ -116,7 +116,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <p align="center">
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
-    <a href="https://bitcoincore.org/en/download/">Download</a>
+    <a href="https://metamask.io/download.html">Download</a>
   </p>
 </p>
 
@@ -132,7 +132,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <p align="center">
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
-    <a href="https://bitcoincore.org/en/download/">Download</a>
+    <a href="https://trustwallet.com/download-page">Download</a>
   </p>
 </p>
 
