@@ -83,7 +83,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/criptomoedas/blob/main/bitcoin_wallet/README.md">
-    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+    <img src="bitcoin_wallet/bitcoincore.jpg" alt="bitcoin" width="80" height="80">
   </a>
 
   <h3 align="center">Bitcoin core - Wallet</h3>
@@ -99,7 +99,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
-    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+    <img src="electrum_wallet/electrum.jpg" alt="bitcoin" width="80" height="80">
   </a>
 
   <h3 align="center">Electrum - Wallet</h3>
@@ -115,7 +115,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
-    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+    <img src="metamask_wallet/metamask.png" alt="bitcoin" width="80" height="80">
   </a>
 
   <h3 align="center">Metamask - Wallet</h3>
@@ -131,7 +131,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
-    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+    <img src="trust_wallet/trustwallet.jpg" alt="bitcoin" width="80" height="80">
   </a>
 
   <h3 align="center">Trust - Wallet</h3>
