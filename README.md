@@ -43,18 +43,18 @@
 <!-- Inicio -->
 ## Inicio
 
-Para entender as criptomoedas é necessário entender Blockchain.
+Para entender as criptomoedas é necessário antes entender Blockchain.
 
 Blockchain é um tipo de banco de dados que usa criptográfia para armazenar as informações, uma vez que a informação é gravada na blockchain ela nunca mais poderá ser alterada. 
 
-Essa alta segurança no armazenamento de informações é um dos motivos que tornaram a Blockchain uma tecnologia muito explorada. O principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
+Essa alta segurança no armazenamento de informações é um dos motivos que tornam a Blockchain uma tecnologia muito promissora. Atualmente o principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
 
 Criptomoedas possuem esse nome justamente por serem transações criptográficas entre pessoas, ou melhor, entre carteiras digitais.
 A mais famosa criptomoeda é o bitcoin.
 
-O bitcoin só existe por que há uma blockchain por trás armazenando as transações, um fator importante é que as carteiras digitais são gravadas na blockchain e por isso você deve entender como funciona a tecnologia para não correr riscos desnecessários.
+O bitcoin só existe por que há uma Blockchain para ele, um fator importante é que todas as transações e até mesmo as carteiras estão dentro da Blockchain, por isso você deve entender como funciona a tecnologia para não correr riscos desnecessários.
 
-Diferentemente dos bancos(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
+Diferentemente dos bancos tradicionais(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
 Você é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
