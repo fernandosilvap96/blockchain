@@ -59,8 +59,8 @@ Diferentemente dos bancos(Bradesco, Santander, Itau...) que possuem um banco de 
 Cada um é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
 **_Termos relacionados a tecnologia_**:
-_carteira = conta bancária_
-_informações na Blockchain = transações_
+>_carteira = conta bancária_
+>_informações na Blockchain = transações_
 
 
 <!-- Criando a carteira para Criptomoedas -->
