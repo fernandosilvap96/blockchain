@@ -56,10 +56,10 @@ O bitcoin só existe por que há uma blockchain por trás armazenando as transa�
 
 Diferentemente dos bancos(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
-Cada um é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
+Você é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
 **_Termos relacionados a tecnologia_**:
->carteira = conta bancária
+>conta bacária = carteira
 
 >informações na Blockchain = transações
 
