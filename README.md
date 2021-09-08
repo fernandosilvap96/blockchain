@@ -16,8 +16,13 @@
      </li>  
      <li>
        <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
+       <ul>
+        <li><a href="#bitcoin-core---wallet">Bitcoin Core</a></li>
+         
+         
+         
+      </ul>
      </li>
-         <li><a href="Bitcoin core - Wallet">Prerequisites</a></li>
      <li>
         <a href="#acessando-a-blockchain-do-bitcoin">Acessando a Blockchain do bitcoin</a>
        <ul>
