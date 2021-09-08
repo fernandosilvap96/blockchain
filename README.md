@@ -19,7 +19,7 @@
        <ul>
           <li><a href="#bitcoin-core---wallet">Bitcoin Core</a></li>
           <li><a href="#electrum---wallet">Electrum</a></li>
-          <li><a href="metamask---wallet">Metamask</a></li>
+          <li><a href="#metamask---wallet">Metamask</a></li>
           <li><a href="#trust---wallet">Trust Wallet</a></li>
       </ul>
      </li>
@@ -82,9 +82,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Bitcoin core - Wallet</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
-    <br />
     <br />
     <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
@@ -100,9 +98,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Electrum - Wallet</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
-    <br />
     <br />
     <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
@@ -118,9 +114,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Metamask - Wallet</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
-    <br />
     <br />
     <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
@@ -136,9 +130,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Trust - Wallet</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
-    <br />
     <br />
     <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
