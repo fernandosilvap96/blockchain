@@ -50,8 +50,9 @@ Blockchain é um tipo de banco de dados que usa criptográfia para armazenar as 
 Essa alta segurança no armazenamento de informações é o que tornou a Blockchain uma tecnologia muito explorada. O principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
 
 Criptomoedas possuem esse nome justamente por serem transações criptográficas entre pessoas, ou melhor, entre carteiras digitais.
-A mais famosa criptomoeda é o bitcoin. 
-O bitcoin só existe por que há uma blockchain por trás armazenando as transações, ela possui a mesma finalidade de um livro razão na contabilidade, um livro que confirma a existencia de todas as transações realizadas, outro fator importante é que as carteiras digitais são gravadas na blockchain e por isso você deve entender como funciona a tecnologia, para que você não corra riscos desnecessários.
+A mais famosa criptomoeda é o bitcoin.
+
+O bitcoin só existe por que há uma blockchain por trás armazenando as transações, ela possui a mesma finalidade de um livro razão na contabilidade, um livro que confirma a existencia de todas as transações realizadas. Outro fator importante é que as carteiras digitais são gravadas na blockchain e por isso você deve entender como funciona a tecnologia, para que você não corra riscos desnecessários.
 
 Diferentemente dos bancos(Bradesco, Santander, itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
