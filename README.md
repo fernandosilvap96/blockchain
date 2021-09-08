@@ -9,10 +9,10 @@
 <!-- TABLE OF CONTENTS -->
 <p align="center">
   <details open="open">
-    <summary>Table of Contents</summary>
+    <summary>Introdução a Blockchain</summary>
     <ol>
      <li>
-       <a href="#about-the-project">About The Project</a>
+       <a href="#crypto-wallet">Criando a Crypto wallet</a>
        <ul>
          <li><a href="#built-with">Built With</a></li>
         </ul>
@@ -35,17 +35,35 @@
 </p>  
 
 
-<!-- Carteira Bitcoin -->
+<!-- Criando a carteira para Criptomoedas -->
+## Crypto wallet
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Aprenda a fazer a sua crypto wallet de modo facil e rápido.
+
+Primeiro escolha um software de wallet:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+
+
+<!-- Crypto wallet - Carteira Bitcoin -->
 <br />
 <p align="center">
   <a href="https://github.com/fernandosilvap96/wallets/tree/main/bitcoin_wallet">
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
-  <h3 align="center">Criação de Bitcoin Wallet</h3>
+  <h3 align="center">Criação da Crypto wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira de bitcoin.
+    Tutorial de como criar uma carteira para criptomoedas.
     <br />
     <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,22 +76,29 @@
   </p>
 </p>
 
+<!-- Crypto wallet - Carteira Electrum -->
+<br />
+<p align="center">
+  <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
+    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+  </a>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+  <h3 align="center">Criação da Crypto wallet</h3>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+  <p align="center">
+    Tutorial de como criar uma carteira para criptomoedas.
+    <br />
+    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
 
-Aprenda a fazer uma bitcoin wallet de modo facil e rápido.
-
-Primeiro escolha um software de wallet:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
