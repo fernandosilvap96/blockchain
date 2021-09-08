@@ -16,12 +16,6 @@
      </li>  
      <li>
        <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
-       <ul>
-         <li><a href="<!-- Crypto wallet - Bitcoin core -->">Bitcoin Core</a></li>
-         <li><a href="#electrum">Electrum</a></li>
-         <li><a href="#metamask">Metamask</a></li>
-         <li><a href="#trust-wallet">Trust wallet</a></li>
-        </ul>
      </li>
      <li>
         <a href="#acessando-a-blockchain-do-bitcoin">Acessando a Blockchain do bitcoin</a>
@@ -90,7 +84,6 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-### Electrum
 <!-- Crypto wallet - Electrum -->
 <br />
 <p align="center">
@@ -109,7 +102,6 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-### Metamask
 <!-- Crypto wallet - Metamask -->
 <br />
 <p align="center">
@@ -128,7 +120,6 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-### Trust Wallet
 <!-- Crypto wallet - Trust Wallet -->
 <br />
 <p align="center">
