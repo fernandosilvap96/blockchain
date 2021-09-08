@@ -57,11 +57,8 @@ Diferentemente dos bancos(Bradesco, Santander, itau...) que possuem um banco de 
 
 Cada um é responsável pela sua conta(carteira), devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
-
 <!-- Criando a carteira para Criptomoedas -->
 ## Carteira de criptomoedas
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Para interagir com a blockchain do bitcoin, ethereum e demais criptoativos é necessario usar uma carteira digital.
 
@@ -73,15 +70,13 @@ Primeiro escolha um software de wallet(carteiras com criptográfia):
 * Metamask
 * Trust wallet
 
-Cada wallet possui diferentes caracteristicas e finalidades. 
 Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta escolher a que mais se adequa ao seu objetivo.
-
 
 ### Bitcoin Core
 <!-- Crypto wallet - Bitcoin core -->
 <br />
 <p align="center">
-  <a href="https://github.com/fernandosilvap96/wallets/tree/main/bitcoin_wallet">
+  <a href="https://github.com/fernandosilvap96/criptomoedas/blob/main/bitcoin_wallet/README.md">
     <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
   </a>
 
@@ -90,14 +85,12 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <p align="center">
     Tutorial de como criar uma carteira Bitcoin core.
     <br />
-    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
   </p>
 </p>
-
 
 ### Electrum
 <!-- Crypto wallet - Electrum -->
@@ -116,10 +109,8 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
   </p>
 </p>
-
 
 ### Metamask
 <!-- Crypto wallet - Metamask -->
@@ -138,10 +129,8 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
   </p>
 </p>
-
 
 ### Trust Wallet
 <!-- Crypto wallet - Trust Wallet -->
@@ -160,7 +149,6 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
   </p>
 </p>
 
