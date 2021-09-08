@@ -43,7 +43,7 @@
 <!-- Inicio -->
 ## Inicio
 
-Para entender as criptomoedas é necessário antes entender Blockchain.
+Para entender as criptomoedas é necessário entender Blockchain.
 
 Blockchain é um tipo de banco de dados que usa criptográfia para armazenar as informações, uma vez que a informação é gravada na blockchain ela nunca mais poderá ser alterada. 
 
