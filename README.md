@@ -152,7 +152,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções disponiveis.
+Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
 
 
 
