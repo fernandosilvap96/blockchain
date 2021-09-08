@@ -6,33 +6,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
+<p align="center">
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +32,31 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+</p>  
 
+
+<!-- Carteira Bitcoin -->
+<br />
+<p align="center">
+  <a href="https://github.com/fernandosilvap96/wallets/tree/main/bitcoin_wallet">
+    <img src="bitcoin_wallet/bitcoin.png" alt="bitcoin" width="80" height="80">
+  </a>
+
+  <h3 align="center">Criação de Bitcoin Wallet</h3>
+
+  <p align="center">
+    Tutorial de como criar uma carteira de bitcoin.
+    <br />
+    <a href="https://github.com/fernandosilvap96/wallets/blob/main/bitcoin_wallet/README_bitcoin.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -65,9 +64,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Aprenda a fazer uma bitcoin wallet de modo facil e rápido.
 
-Here's why:
+Primeiro escolha um software de wallet:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
