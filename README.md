@@ -83,12 +83,11 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   <h3 align="center">Bitcoin core - Wallet</h3>
 
   <p align="center">
-    Tutorial de como criar uma carteira Bitcoin core.
     <br />
-    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de uso »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://bitcoincore.org/en/download/">Download</a>
   </p>
 </p>
 
