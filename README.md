@@ -12,6 +12,9 @@
     <summary>Introdução a Blockchain</summary>
     <ol>
      <li>
+       <a href="#inicio">Informações básicas para começar a sua jornada</a>
+     </li>  
+     <li>
        <a href="#crypto-wallet">Criando a Crypto wallet</a>
        <ul>
          <li><a href="#built-with">Built With</a></li>
@@ -34,13 +37,30 @@
   </details>
 </p>  
 
+<!-- Inicio -->
+## Inicio
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Criando a carteira para Criptomoedas -->
 ## Crypto wallet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Aprenda a fazer a sua crypto wallet de modo facil e rápido.
+Para interagir com a blockchain do bitcoin, ethereum e demais criptoativos é necessario usar uma carteira digital.
+
+Neste tópico aprenda a fazer a sua carteira de criptomoedas de modo facil e rápido.
 
 Primeiro escolha um software de wallet:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
