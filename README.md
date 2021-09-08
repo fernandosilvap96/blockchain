@@ -106,11 +106,13 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 
 <!-- Crypto wallet - Electrum -->
 <br />
-<p align="center"
-  <h3 align="center">Electrum - Wallet</h3>
-  <a href="https://github.com/fernandosilvap96/wallets/tree/main/electrum_wallet">
+<p align="center">
+  <a href="https://github.com/fernandosilvap96/criptomoedas/blob/main/bitcoin_wallet/README.md">
     <img src="electrum_wallet/electrum.jpg" alt="bitcoin" width="80" height="80">
   </a>
+
+  <h3 align="center">Electrum - Wallet</h3>
+ 
   <p align="center">
     <a href="https://github.com/fernandosilvap96/criptomoedas/tree/main/bitcoin_wallet"><strong>Tutorial de como usar »</strong></a>
     <br />
