@@ -17,7 +17,10 @@
      <li>
        <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
        <ul>
-         <li><a href="#built-with">Built With</a></li>
+         <li><a href="#bitcoin-core">Bitcoin Core</a></li>
+         <li><a href="#electrum">Electrum</a></li>
+         <li><a href="#metamask">Metamask</a></li>
+         <li><a href="#trust-wallet">Trust wallet</a></li>
         </ul>
      </li>
      <li>
@@ -73,6 +76,11 @@ Primeiro escolha um software de wallet(carteiras com criptográfia):
 Cada wallet possui diferentes caracteristicas e finalidades. 
 Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta escolher a que mais se adequa ao seu objetivo.
 
+
+### Bitcoin Core
+
+Carteira Bitcoin core é a mais segura para interagir com a Blockchain do bitcoin porém é um pouco mais dificil de usar, requer mais atenção do usuário e demanda mais tempo para aprender do que as outras.
+
 <!-- Crypto wallet - Bitcoin core -->
 <br />
 <p align="center">
@@ -94,6 +102,8 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 </p>
 
 
+### Electrum
+
 <!-- Crypto wallet - Electrum -->
 <br />
 <p align="center">
@@ -113,6 +123,9 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
     ·
   </p>
 </p>
+
+
+### Metamask
 
 <!-- Crypto wallet - Metamask -->
 <br />
@@ -135,6 +148,8 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 </p>
 
 
+### Trust Wallet
+
 <!-- Crypto wallet - Trust Wallet -->
 <br />
 <p align="center">
@@ -156,12 +171,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 </p>
 
 
-### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 
 
