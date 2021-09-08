@@ -62,6 +62,7 @@ Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório 
 
 Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
 https://blog.nubank.com.br/o-que-e-bitcoin/
+
 https://blog.nubank.com.br/o-que-e-blockchain/
 
 **_Termos relacionados a tecnologia_**:
