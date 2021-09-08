@@ -52,11 +52,16 @@ Essa alta segurança no armazenamento de informações é o que tornou a Blockch
 Criptomoedas possuem esse nome justamente por serem transações criptográficas entre pessoas, ou melhor, entre carteiras digitais.
 A mais famosa criptomoeda é o bitcoin.
 
-O bitcoin só existe por que há uma blockchain por trás armazenando as transações, ela possui a mesma finalidade de um livro razão na contabilidade, um livro que confirma a existencia de todas as transações realizadas. Outro fator importante é que as carteiras digitais são gravadas na blockchain e por isso você deve entender como funciona a tecnologia, para que você não corra riscos desnecessários.
+O bitcoin só existe por que há uma blockchain por trás armazenando as transações, ela possui a mesma finalidade de um livro razão na contabilidade, um livro que confirma a existencia de todas as transações realizadas. Outro fator importante é que as carteiras digitais são gravadas na blockchain e por isso você deve entender como funciona a tecnologia para não correr riscos desnecessários.
 
-Diferentemente dos bancos(Bradesco, Santander, itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
+Diferentemente dos bancos(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
-Cada um é responsável pela sua conta(carteira), devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
+Cada um é responsável pela sua carteira, devendo portanto sempre guardar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
+
+**_Termos relacionados a tecnologia_**:
+_carteira = conta bancária_
+_informações na Blockchain = transações_
+
 
 <!-- Criando a carteira para Criptomoedas -->
 ## Carteira de criptomoedas
