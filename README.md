@@ -68,8 +68,8 @@ Para interagir com a blockchain do bitcoin, ethereum e demais criptoativos é ne
 Neste tópico aprenda a fazer a sua carteira de criptomoedas de modo facil e rápido.
 
 Primeiro escolha um software de wallet(carteiras com criptográfia):
+* Bitcoin Core
 * Electrum
-* Bitcoin core
 * Metamask
 * Trust wallet
 
@@ -78,9 +78,6 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 
 
 ### Bitcoin Core
-
-Carteira Bitcoin core é a mais segura para interagir com a Blockchain do bitcoin porém é um pouco mais dificil de usar, requer mais atenção do usuário e demanda mais tempo para aprender do que as outras.
-
 <!-- Crypto wallet - Bitcoin core -->
 <br />
 <p align="center">
@@ -103,7 +100,6 @@ Carteira Bitcoin core é a mais segura para interagir com a Blockchain do bitcoi
 
 
 ### Electrum
-
 <!-- Crypto wallet - Electrum -->
 <br />
 <p align="center">
@@ -126,7 +122,6 @@ Carteira Bitcoin core é a mais segura para interagir com a Blockchain do bitcoi
 
 
 ### Metamask
-
 <!-- Crypto wallet - Metamask -->
 <br />
 <p align="center">
@@ -149,7 +144,6 @@ Carteira Bitcoin core é a mais segura para interagir com a Blockchain do bitcoi
 
 
 ### Trust Wallet
-
 <!-- Crypto wallet - Trust Wallet -->
 <br />
 <p align="center">
