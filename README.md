@@ -5,6 +5,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<h1 align="center">Introdução a Criptomoedas</h1>
+
 <img src="cryptocurrency.jpg" alt="criptomoedas" width="900" height="500">
 
 <!-- TABLE OF CONTENTS -->
