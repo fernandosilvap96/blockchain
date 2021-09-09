@@ -195,7 +195,7 @@ Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT)
 
 NFTs são tokens unicos, ou melhor, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto individual de cada token elevam o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
 
-
+Noticia sobre algumas vendas de NFts com preços extremamente altos: https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10
 
 <!-- ROADMAP -->
 ## Roadmap
