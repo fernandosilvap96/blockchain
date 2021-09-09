@@ -5,7 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img src="cryptocurrency.jpg" alt="criptomoedas" width="800" height="500">
+<img src="cryptocurrency.jpg" alt="criptomoedas" width="900" height="500">
 
 <!-- TABLE OF CONTENTS -->
 <p align="center">
