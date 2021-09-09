@@ -189,7 +189,11 @@ Para criar uma conta e aprender a usar os recursos da corretora <a href="https:/
 <!-- Tokens -->
 ## Tokens
 
+Além das criptomoedas disponiveis no mercado, existem também os tokens. Eles são negociados nas corretoras e também pertencem a Blockchain, tokens podem ser usados para outras finalidades além da simples transação de troca entre carteiras, eles podem ser usados para representar produtos e serviços.
 
+Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT), tokens utility servem para intermediar algum serviço ou produto, um exemplo de facil entendimento é o Chiliz, um token que pode ser usado para comprar participações de clubes esportivos, com direito a diversos serviços especificos de cada clube, apesar de poder ser vendido e comprado, sua principal finalidade é ser trocado por serviços. 
+
+NFTs são tokens unicos, ou melhor, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto individual de cada token elevam o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
 
 
 
