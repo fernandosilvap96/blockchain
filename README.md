@@ -24,10 +24,10 @@
       </ul>
      </li>
      <li>
-        <a href="#acessando-a-blockchain-do-bitcoin">Acessando a Blockchain do bitcoin</a>
+        <a href="#corretoras-de-criptomoedas">Corretoras de Criptomoedas</a>
        <ul>
-         <li><a href="#prerequisites">Prerequisites</a></li>
-         <li><a href="#installation">Installation</a></li>
+         <li><a href="#binance">Binance</a></li>
+         <li><a href="#mercado-bitcoin">Mercado Bitcoin</a></li>
        </ul>
      </li>
      <li><a href="#usage">Usage</a></li>
@@ -62,7 +62,7 @@ Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório 
 
 Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
 
-https://blog.nubank.com.br/o-que-e-bitcoin/
+https://bitcoin.org/pt_BR/como-funciona
 
 https://blog.nubank.com.br/o-que-e-blockchain/
 
@@ -154,16 +154,18 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 
 Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
 
+<!-- Corretoras de Criptomoedas -->
+## Corretoras de Criptomoedas
 
+Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abrir conta em corretoras.
 
+As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
+Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo de criptomoedas.
+Algumas disponibilizam mais de mil criptomoedas diferentes para voce comprar.
 
-<!-- Blockchain do bitcoin -->
-## Acessando a Blockchain do bitcoin
+Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
-Com a sua crypto wallet criada, agora podemos acessar a blockchain do bitcoin para efetuar transações.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+### Binance
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -171,7 +173,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Mercado Bitcoin
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
