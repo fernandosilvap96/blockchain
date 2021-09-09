@@ -224,7 +224,7 @@ Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse m
 
 As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado nos ultimos 2 anos.
 
-<img src="chart.png" alt="gráfico" width="500" height="500">
+<img src="chart.png" alt="gráfico" width="800" height="500">
 
 
 
