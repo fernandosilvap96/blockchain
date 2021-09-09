@@ -168,7 +168,7 @@ Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem 
 
 Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
-### Binance
+#### Binance
 
 Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados no mercado.
 
@@ -176,7 +176,7 @@ Site: https://www.binance.com/pt-BR
 
 Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
-### Mercado Bitcoin
+#### Mercado Bitcoin
 
 Mercado Bitcoin é a corretora brasileira mais famosa, foi a primeira corretora especializada em criptomoedas no país.
 Por ser nacional seu suporte e sua acessibilidade são melhores que os dos concorrentes.
