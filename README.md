@@ -211,7 +211,12 @@ Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de
 
 Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares deles. Exemplo: https://uniswap.org/
 
+Existem ainda outras formas de ganhar dinheiro no mercado de criptomoedas, há jogos que você recebe por jogar como por exemplo o Axie infinity - https://axieinfinity.com/
+Cassinos, loterias e mercado de futuros como por exemplo o Pancakeswap - https://pancakeswap.finance/
+Enfim, opções não faltam. Cabe a você pesquisar e analisar os melhores investimentos do mercado.
+O ganho pode ser expressivo porém o risco é extremamente alto, no mercado de criptomoedas nunca invista mais do que você está disposto a perder.
 
+Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opção de criptomoedas seria um dispercio e um risco investir somente em poucas opções.
 
 <!-- CONTRIBUTING -->
 ## Contributing
