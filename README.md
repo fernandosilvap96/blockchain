@@ -35,7 +35,7 @@
      </li>
      <li><a href="#tokens">Tokens</a></li>
      <li><a href="#mercado-de-criptomoedas">Mercado de criptomoedas</a></li>
-     <li><a href="#contributing">Contributing</a></li>
+     <li><a href="#considerações-finais">Considerações finais</a></li>
      <li><a href="#license">License</a></li>
      <li><a href="#contact">Contact</a></li>
      <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -209,7 +209,7 @@ Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. 
 
 Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade.
 
-Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares deles. Exemplo: https://uniswap.org/
+Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação e desenvolvimento de novos projetos. Exemplo: https://uniswap.org/
 
 Existem ainda outras formas de ganhar dinheiro no mercado de criptomoedas, há jogos que você recebe por jogar como por exemplo o Axie infinity - https://axieinfinity.com/
 Cassinos, loterias e mercado de futuros como por exemplo o Pancakeswap - https://pancakeswap.finance/
@@ -219,27 +219,15 @@ O ganho pode ser expressivo porém o risco é extremamente alto, no mercado de c
 
 Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opções de criptomoedas seria um disperdicio e um risco desnecessário investir somente em poucas opções.
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- Considerações Finais -->
+## Considerações finais
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado nos ultimos 2 anos.
+<img src="chart.png" alt="gráfico" width="200" height="200">
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
+<!-- CONTATO -->
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
