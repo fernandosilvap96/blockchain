@@ -159,19 +159,16 @@ Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis n
 
 Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abrir conta em corretoras.
 
-As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
-Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo de criptomoedas.
-Algumas disponibilizam mais de mil criptomoedas diferentes para voce comprar.
+As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia para as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
+
+Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo de criptomoedas, algumas disponibilizam mais de mil criptomoedas diferentes para compra.
 
 Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
 ### Binance
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+
 
 ### Mercado Bitcoin
 
