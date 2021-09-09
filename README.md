@@ -18,7 +18,7 @@
        <a href="#inicio">Inicio</a>
      </li>  
      <li>
-       <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
+       <a href="#carteira-de-criptomoedas">Carteira de criptomoedas</a>
        <ul>
           <li><a href="#bitcoin-core---wallet">Bitcoin Core</a></li>
           <li><a href="#electrum---wallet">Electrum</a></li>
