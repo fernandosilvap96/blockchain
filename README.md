@@ -61,7 +61,7 @@ Diferentemente dos bancos tradicionais(Bradesco, Santander, Itau...) que possuem
 
 Você é responsável pela sua carteira, devendo portanto lembrar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
-Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório irei demonstrar 2 caminhos, o primeiro criando uma carteira(Crypto wallet) e o segundo via corretoras de criptoativos.
+Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório irei demonstrar 2 caminhos, o primeiro criando uma carteira e o segundo via corretoras de criptoativos.
 
 Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
 
