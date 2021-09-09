@@ -164,13 +164,13 @@ Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abri
 
 As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia para as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
 
-Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo de criptomoedas, algumas disponibilizam mais de mil criptomoedas diferentes para compra.
+Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo.
 
 Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
 #### Binance
 
-Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados do mercado.
+Binance é uma corretora Chinesa intitulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados do mercado.
 
 Site: https://www.binance.com/pt-BR
 
@@ -193,7 +193,7 @@ Além das criptomoedas disponiveis no mercado, existem também os tokens. Eles s
 
 Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT), tokens utility servem para intermediar algum serviço ou produto, um exemplo de facil entendimento é o Chiliz, um token que pode ser usado para comprar participações de clubes esportivos, com direito a diversos serviços especificos de cada clube, apesar de poder ser vendido e comprado, sua principal finalidade é ser trocado por serviços. 
 
-NFTs são tokens unicos, ou melhor, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto individual de cada token elevam o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
+NFTs são tokens unicos, ou seja, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto individual de cada token eleva o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
 
 Noticia sobre algumas vendas de NFts com preços extremamente altos: https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10
 
