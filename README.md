@@ -36,9 +36,7 @@
      <li><a href="#tokens">Tokens</a></li>
      <li><a href="#mercado-de-criptomoedas">Mercado de criptomoedas</a></li>
      <li><a href="#considerações-finais">Considerações finais</a></li>
-     <li><a href="#license">License</a></li>
      <li><a href="#contact">Contact</a></li>
-     <li><a href="#acknowledgements">Acknowledgements</a></li>
     </ol>
   </details>
 </p>  
@@ -155,7 +153,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
+Caso nenhuma dessas carteiras lhe interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
 
 <!-- Corretoras de Criptomoedas -->
 ## Corretoras de criptomoedas
@@ -164,7 +162,7 @@ Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abri
 
 As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia para as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
 
-Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catalogo.
+Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catálogo.
 
 Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
@@ -200,10 +198,10 @@ Noticia sobre algumas vendas de NFts com preços extremamente altos: https://for
 <!-- ROADMAP -->
 ## Mercado de criptomoedas
 
-O mercado de criptomoedas é dinâmico, escalavel e em muitos casos cheio de esquemas de pirâmide e fraudes.
+O mercado de criptomoedas é dinâmico e escalável porém cheio de esquemas de pirâmide e fraudes.
 A jornada de uma criptomoeda começa no seu desenvolvimento, startups iniciam projetos com a tecnologia Blockchain e então transformam esse projeto em uma criptomoeda/token para assim lançar o projeto no mercado e receber investimentos.
 
-A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diarias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
+A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diárias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
 
 Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
@@ -225,34 +223,20 @@ Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse m
 As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado durante esse ano.
 Atualmente o valor desse mercado gira em torno de 11 trilhões de reais.
 
-<img align="center" src="chart.png" alt="gráfico" width="800" height="500">
+<img align="center" src="chart.png" alt="gráfico" width="800" height="550">
 
+Devido ao alto risco de investimento principalmente por apresentar muita volatilidade, recomenda-se investir pouco e se manter atualizado sobre as novidades da tecnologia Blockchain e a consolidação das criptomoedas no cenário mundial.
 
+O ideal ao meu ver é adquirir criptomoedas via corretoras e depois migrar elas para sua carteira pessoal uma vez que as corretoras estão a merce de ataques hackers ou problemas politicos e legais. Sempre procure manter as suas criptomoedas em seu domínio mas nunca esqueça que se perder o código de acesso a carteira não terá como recuperar as criptomoedas.
+
+Espero que esse reposítorio tenha ajudado você a entender um pouco as criptomoedas, fique a vontade para entrar em contato caso queira falar sobre o assunto.
 
 <!-- CONTATO -->
-## Contact
+## Contato
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
 
 
 
