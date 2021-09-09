@@ -33,8 +33,8 @@
          <li><a href="#mercado-bitcoin">Mercado Bitcoin</a></li>
        </ul>
      </li>
-     <li><a href="#Tokens">Tokens</a></li>
-     <li><a href="#roadmap">Roadmap</a></li>
+     <li><a href="#tokens">Tokens</a></li>
+     <li><a href="#mercado-de-criptomoedas">Mercado de criptomoedas</a></li>
      <li><a href="#contributing">Contributing</a></li>
      <li><a href="#license">License</a></li>
      <li><a href="#contact">Contact</a></li>
@@ -198,9 +198,16 @@ NFTs são tokens unicos, ou seja, produtos criados virtualmente ou então produt
 Noticia sobre algumas vendas de NFts com preços extremamente altos: https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10
 
 <!-- ROADMAP -->
-## Roadmap
+## Mercado de criptomoedas
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+O mercado de criptomoedas é dinâmico, escalavel e em muitos casos cheio de esquemas de pirâmide e fraudes.
+A jornada de uma criptomoeda começa no seu desenvolvimento, startups iniciam projetos com a tecnologia Blockchain e então transformam esse projeto em uma criptomoeda/token para assim lançar o projeto no mercado e receber investimentos.
+A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diarias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
+
+Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ *Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora.
+
+Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade, por isso muitas vezes os preços delas já estão consolidados.
+Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares de projetos. Exemplo: https://uniswap.org/
 
 
 
