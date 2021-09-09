@@ -33,7 +33,7 @@
          <li><a href="#mercado-bitcoin">Mercado Bitcoin</a></li>
        </ul>
      </li>
-     <li><a href="#usage">Usage</a></li>
+     <li><a href="#Tokens">Tokens</a></li>
      <li><a href="#roadmap">Roadmap</a></li>
      <li><a href="#contributing">Contributing</a></li>
      <li><a href="#license">License</a></li>
@@ -170,7 +170,7 @@ Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a 
 
 #### Binance
 
-Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados no mercado.
+Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados do mercado.
 
 Site: https://www.binance.com/pt-BR
 
@@ -186,12 +186,10 @@ Site: https://www.mercadobitcoin.com.br/
 
 Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Tokens -->
+## Tokens
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
