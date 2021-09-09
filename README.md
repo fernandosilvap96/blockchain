@@ -15,7 +15,7 @@
     <summary>Introdução a Criptomoedas</summary>
     <ol>
      <li>
-       <a href="#inicio">Informações básicas para começar a sua jornada</a>
+       <a href="#inicio">Inicio</a>
      </li>  
      <li>
        <a href="#carteira-de-criptomoedas">Criando a sua carteira de criptomoedas</a>
@@ -27,7 +27,7 @@
       </ul>
      </li>
      <li>
-        <a href="#corretoras-de-criptomoedas">Corretoras de Criptomoedas</a>
+        <a href="#corretoras-de-criptomoedas">Corretoras de criptomoedas</a>
        <ul>
          <li><a href="#binance">Binance</a></li>
          <li><a href="#mercado-bitcoin">Mercado Bitcoin</a></li>
@@ -158,7 +158,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
 Caso nenhuma dessas carteiras te interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
 
 <!-- Corretoras de Criptomoedas -->
-## Corretoras de Criptomoedas
+## Corretoras de criptomoedas
 
 Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abrir conta em corretoras.
 
