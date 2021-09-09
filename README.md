@@ -168,8 +168,11 @@ Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a 
 
 ### Binance
 
+Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados no mercado.
 
+Site: https://www.binance.com/pt-BR
 
+Para criar uma conta e usar os recursos da corretora da melhor forma <a href="https://github.com/">clique aqui</a>
 
 ### Mercado Bitcoin
 
