@@ -204,7 +204,7 @@ O mercado de criptomoedas é dinâmico, escalavel e em muitos casos cheio de esq
 A jornada de uma criptomoeda começa no seu desenvolvimento, startups iniciam projetos com a tecnologia Blockchain e então transformam esse projeto em uma criptomoeda/token para assim lançar o projeto no mercado e receber investimentos.
 A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diarias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
 
-Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ *__Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora__.
+Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
 Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade, por isso muitas vezes os preços delas já estão consolidados.
 Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares de projetos. Exemplo: https://uniswap.org/
