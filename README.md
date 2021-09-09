@@ -207,14 +207,14 @@ A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) 
 
 Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
-Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade, por isso muitas vezes os preços delas já estão consolidados.
+Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade.
 
 Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares deles. Exemplo: https://uniswap.org/
 
 Existem ainda outras formas de ganhar dinheiro no mercado de criptomoedas, há jogos que você recebe por jogar como por exemplo o Axie infinity - https://axieinfinity.com/
 Cassinos, loterias e mercado de futuros como por exemplo o Pancakeswap - https://pancakeswap.finance/
 
-Enfim, opções não faltam. Cabe a você pesquisar e analisar os melhores investimentos do mercado.
+Enfim, opções não faltam. Cabe a você pesquisar e analisar os melhores investimentos.
 O ganho pode ser expressivo porém o risco é extremamente alto, no mercado de criptomoedas nunca invista mais do que você está disposto a perder.
 
 Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opções de criptomoedas seria um disperdicio e um risco desnecessário investir somente em poucas opções.
