@@ -223,7 +223,7 @@ Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse m
 ## Considerações finais
 
 As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado durante esse ano.
-Atualmente o valor desse mercado gira em torno de 11 bilhões de reais.
+Atualmente o valor desse mercado gira em torno de 11 trilhões de reais.
 
 <img align="center" src="chart.png" alt="gráfico" width="800" height="500">
 
