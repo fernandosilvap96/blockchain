@@ -12,7 +12,7 @@
 <!-- TABLE OF CONTENTS -->
 <p align="center">
   <details open="open">
-    <summary>Introdução a Criptomoedas</summary>
+    <summary>Sumário</summary>
     <ol>
      <li>
        <a href="#inicio">Inicio</a>
