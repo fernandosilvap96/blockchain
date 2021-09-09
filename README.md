@@ -207,7 +207,8 @@ A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) 
 Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
 Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade, por isso muitas vezes os preços delas já estão consolidados.
-Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares de projetos. Exemplo: https://uniswap.org/
+
+Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação que contemplam milhares deles. Exemplo: https://uniswap.org/
 
 
 
