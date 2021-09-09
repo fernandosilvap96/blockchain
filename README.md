@@ -217,7 +217,7 @@ Cassinos, loterias e mercado de futuros como por exemplo o Pancakeswap - https:/
 Enfim, opções não faltam. Cabe a você pesquisar e analisar os melhores investimentos do mercado.
 O ganho pode ser expressivo porém o risco é extremamente alto, no mercado de criptomoedas nunca invista mais do que você está disposto a perder.
 
-Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opção de criptomoedas seria um disperdicio e um risco desnecessário investir somente em poucas opções.
+Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opções de criptomoedas seria um disperdicio e um risco desnecessário investir somente em poucas opções.
 
 <!-- CONTRIBUTING -->
 ## Contributing
