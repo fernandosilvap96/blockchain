@@ -174,25 +174,17 @@ Binance é uma corretora Chinesa titulada a maior corretora de criptomoedas do m
 
 Site: https://www.binance.com/pt-BR
 
-Para criar uma conta e usar os recursos da corretora da melhor forma <a href="https://github.com/">clique aqui</a>
+Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
 ### Mercado Bitcoin
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Mercado Bitcoin é a corretora brasileira mais famosa, foi a primeira corretora especializada em criptomoedas no país.
+Por ser nacional seu suporte e sua acessibilidade são melhores que os dos concorrentes.
+Essa corretora não possui uma grande variedade de criptomoedas porém ela é ótima para quem está começando nesse mercado.
 
+Site: https://www.mercadobitcoin.com.br/
 
+Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
