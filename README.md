@@ -233,14 +233,14 @@ Devido ao alto risco de investimento principalmente por apresentar muita volatil
 
 O ideal ao meu ver é adquirir criptomoedas via corretoras e depois migrar elas para sua carteira pessoal uma vez que as corretoras estão a merce de ataques hackers ou problemas politicos e legais. Sempre procure manter as suas criptomoedas em seu domínio mas nunca esqueça que se perder o código de acesso a carteira não terá como recuperar as criptomoedas.
 
-Espero que esse reposítorio tenha te ajudado a entender um pouco sobre o universo de criptomoedas.
+Espero que esse reposítorio tenha te ajudado a entender um pouco sobre esse novo mercado.
 
 <!-- CONTATO -->
 ## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Fernando Pinto - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Site: [https://fernandosilvap96.github.io/profile](https://fernandosilvap96.github.io/profile)
 
 
 
