@@ -36,7 +36,7 @@
      <li><a href="#tokens">Tokens</a></li>
      <li><a href="#mercado-de-criptomoedas">Mercado de criptomoedas</a></li>
      <li><a href="#considerações-finais">Considerações finais</a></li>
-     <li><a href="#contact">Contact</a></li>
+     <li><a href="#contato">Contato</a></li>
     </ol>
   </details>
 </p>  
