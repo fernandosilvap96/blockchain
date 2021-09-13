@@ -160,9 +160,9 @@ Caso nenhuma dessas carteiras lhe interesse, existem varias outras disponíveis 
 
 Outra forma de adquirir criptomoedas sem precisar criar carteiras crypto é abrir conta em corretoras.
 
-As corretoras disponibilizam o acesso a várias criptomoedas, você terá uma conta semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia para as criptomoedas com as ações de empresas, ambas possuem caracteristicas semelhantes.
+As corretoras disponibilizam o acesso a várias criptomoedas, elas funcionam de forma semelhante a qualquer corretora de renda variável com login, senha, email, telefone... Pode-se fazer uma analogia para as criptomoedas com as ações de empresas, ambas possuem algumas caracteristicas similares.
 
-Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponiveis, cada uma com seu próprio catálogo.
+Você pode acessar o mercado de criptomoedas que cada corretora possui. Existem diversas corretoras disponíveis, cada uma com seu próprio catálogo.
 
 Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a Binance e o Mercado Bitcoin.
 
@@ -176,7 +176,7 @@ Para criar uma conta e aprender a usar os recursos da corretora <a href="https:/
 
 #### Mercado Bitcoin
 
-Mercado Bitcoin é a corretora brasileira mais famosa, foi a primeira corretora especializada em criptomoedas no país.
+Mercado Bitcoin é a corretora brasileira mais conhecida, foi a primeira corretora especializada em criptomoedas no país.
 Por ser nacional seu suporte e sua acessibilidade são melhores que os dos concorrentes.
 Essa corretora não possui uma grande variedade de criptomoedas porém ela é ótima para quem está começando nesse mercado.
 
@@ -187,49 +187,53 @@ Para criar uma conta e aprender a usar os recursos da corretora <a href="https:/
 <!-- Tokens -->
 ## Tokens
 
-Além das criptomoedas disponiveis no mercado, existem também os tokens. Eles são negociados nas corretoras e também pertencem a Blockchain, tokens podem ser usados para outras finalidades além da simples transação de troca entre carteiras, eles podem ser usados para representar produtos e serviços.
+Além das criptomoedas disponiveis no mercado, existem também os tokens. Eles são negociados nas corretoras e também pertencem a Blockchain, tokens podem ser usados para outras finalidades além da simples transação de compra/venda entre carteiras, eles podem ser usados para representar produtos e serviços.
 
-Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT), tokens utility servem para intermediar algum serviço ou produto, um exemplo de facil entendimento é o Chiliz, um token que pode ser usado para comprar participações de clubes esportivos, com direito a diversos serviços especificos de cada clube, apesar de poder ser vendido e comprado, sua principal finalidade é ser trocado por serviços. 
+Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT), tokens utility servem para intermediar algum serviço ou produto, um exemplo de fácil entendimento é o Chiliz, um token que pode ser usado para comprar participações de clubes esportivos, com direito a diversos serviços específicos de cada clube, apesar de ser vendido e comprado, sua principal finalidade é ser trocado por serviços. 
 
-NFTs são tokens unicos, ou seja, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto exclusivo de cada token eleva o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
+NFTs são tokens únicos, ou seja, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma Blockchain e portanto não possuem cópias. Esse aspecto exclusivo de cada token eleva o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
 
-Noticia sobre algumas vendas de NFts com preços extremamente altos: <a href="https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10">https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10</a>
+Notícia sobre algumas vendas de NFts com preços extremamente altos: <a href="https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10">https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10</a>
 
 <!-- ROADMAP -->
 ## Mercado de criptomoedas
 
 O mercado de criptomoedas é dinâmico e escalável porém cheio de esquemas de pirâmide e fraudes.
-A jornada de uma criptomoeda começa no seu desenvolvimento, startups iniciam projetos com a tecnologia Blockchain e então transformam esse projeto em uma criptomoeda/token para assim lançar o projeto no mercado e receber investimentos.
+A jornada de uma criptomoeda começa no seu desenvolvimento, empresas iniciam projetos com a tecnologia Blockchain e então transformam esse projeto em uma criptomoeda/token para assim lançar o projeto no mercado e receber investimentos.
 
-A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diárias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
+A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diárias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver, mais o valor dela vai subir.
 
-Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. <a href="https://coinmarketcap.com/">https://coinmarketcap.com/</a> _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
+Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. <a href="https://coinmarketcap.com/">https://coinmarketcap.com</a> _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
 Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade.
 
-Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação e desenvolvimento de novos projetos. Exemplo: https://uniswap.org/
+Caso queira acompanhar projetos recém iniciados, existem plataformas de negociação de novos projetos. 
+Exemplo: <a href="https://uniswap.org/">Uniswap</a>
 
-Existem ainda outras formas de ganhar dinheiro no mercado de criptomoedas, há jogos que você recebe por jogar como por exemplo o Axie infinity - https://axieinfinity.com/
-Cassinos, loterias e mercado de futuros como por exemplo o Pancakeswap - https://pancakeswap.finance/
+Existem ainda outras formas de ganhar dinheiro no mercado de criptomoedas, há jogos que você recebe por jogar como por exemplo o <a href="https://axieinfinity.com/">Axie infinity</a>
+
+Loterias e mercado de futuros como por exemplo o <a href="https://pancakeswap.finance/">Pancakeswap</a>.
+
+Ainda há como receber por emprestimo ou mineração de criptomoedas mas quanto mais complexo for o modo de investimento mais cuidado é necessário.
 
 Enfim, opções não faltam. Cabe a você pesquisar e analisar os melhores investimentos.
 O ganho pode ser expressivo porém o risco é extremamente alto, no mercado de criptomoedas nunca invista mais do que você está disposto a perder.
 
-Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opções de criptomoedas seria um disperdicio e um risco desnecessário investir somente em poucas opções.
+Uma dica que acho válida é diversificar seus investimentos ao máximo, nesse mercado com milhares de opções de criptomoedas seria um disperdício e um risco desnecessário concentrar seus investimentos em algumas poucas opções.
 
 <!-- Considerações Finais -->
 ## Considerações finais
 
-As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado durante esse ano.
+As criptomoedas estão em ascensão, o gráfico abaixo iluste bem o crescimento exponêncial desse mercado durante 2021.
 Atualmente o valor desse mercado gira em torno de 11 trilhões de reais.
 
 <img align="center" src="chart.png" alt="gráfico" width="800" height="550">
 
-Devido ao alto risco de investimento principalmente por apresentar muita volatilidade, recomenda-se investir pouco e se manter atualizado sobre as novidades da tecnologia Blockchain e a consolidação das criptomoedas no cenário mundial.
+Devido ao alto risco de investimento principalmente por apresentar muita volatilidade, recomenda-se investir pouco e manter-se atualizado sobre as novidades da tecnologia Blockchain e a consolidação das criptomoedas no cenário mundial.
 
 O ideal ao meu ver é adquirir criptomoedas via corretoras e depois migrar elas para sua carteira pessoal uma vez que as corretoras estão a merce de ataques hackers ou problemas politicos e legais. Sempre procure manter as suas criptomoedas em seu domínio mas nunca esqueça que se perder o código de acesso a carteira não terá como recuperar as criptomoedas.
 
-Espero que esse reposítorio tenha ajudado você a entender um pouco as criptomoedas, fique a vontade para entrar em contato caso queira falar sobre o assunto.
+Espero que esse reposítorio tenha te ajudado a entender um pouco sobre o universo de criptomoedas.
 
 <!-- CONTATO -->
 ## Contato
