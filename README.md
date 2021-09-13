@@ -46,22 +46,22 @@
 
 Para entender as criptomoedas é necessário entender Blockchain.
 
-Blockchain é um tipo de banco de dados que usa criptográfia para armazenar as informações, uma vez que a informação é gravada na blockchain ela nunca mais poderá ser alterada. 
+Blockchain é um tipo de banco de dados que usa criptografia para armazenar as informações, uma vez que a informação é gravada ela nunca mais poderá ser alterada. 
 
-Essa alta segurança no armazenamento de informações é um dos motivos que tornam a Blockchain uma tecnologia muito promissora. Atualmente o principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
+Essa alta segurança no armazenamento de informações é um dos motivos que tornam a Blockchain uma tecnologia promissora. Atualmente o principal uso da tecnologia é voltado para a área financeira onde todas as transações envolvem dinheiro e por isso necessitam de extrema segurança.
 
 Criptomoedas possuem esse nome justamente por serem transações feitas com criptográfia entre pessoas, ou melhor, entre carteiras digitais.
 A mais famosa criptomoeda é o bitcoin.
 
 O bitcoin só existe por que há uma Blockchain para ele, um fator importante é que todas as transações e até mesmo as carteiras estão dentro da Blockchain, por isso você deve entender como funciona a tecnologia para não correr riscos desnecessários.
 
-Diferentemente dos bancos tradicionais(Bradesco, Santander, Itau...) que possuem um banco de dados contendo as informações de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
+Diferentemente dos bancos tradicionais que possuem informações pessoais tais como o saldo de cada cliente, na Blockchain essas informações pertencem somente ao usuário sem nenhuma empresa ou governo ter acesso a elas.
 
 Você é responsável pela sua carteira, devendo portanto lembrar o código de acesso para ela, caso perca o acesso perderá também todo o dinheiro.
 
 Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório irei demonstrar 2 caminhos, o primeiro criando uma carteira e o segundo via corretoras de criptoativos.
 
-Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
+Para maiores informações sobre o funcionamento do bitcoin e sobre Blockchain:
 
 <a href="https://bitcoin.org/pt_BR/como-funciona">Como funciona o bitcoin</a>
 
@@ -72,16 +72,16 @@ Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
 
 >Criptomoedas = transações entre carteiras dentro da Blockchain
 
->Blockchain = Banco de dados com criptográfia
+>Blockchain = Banco de dados com criptografia
 
 <!-- Criando a carteira para Criptomoedas -->
 ## Carteira de criptomoedas
 
-Para interagir com a blockchain do bitcoin, ethereum e demais criptoativos é necessario usar uma carteira crypto.
+Para interagir com a Blockchain do bitcoin, ethereum e demais criptoativos é necessario usar uma carteira com criptografia.
 
-Neste tópico aprenda a fazer a sua carteira de criptomoedas de modo facil e rápido.
+Neste tópico aprenda a fazer a sua carteira de criptomoedas de modo fácil e rápido.
 
-Primeiro escolha uma wallet(carteiras com criptográfia):
+Primeiro escolha uma wallet(carteira):
 * Bitcoin Core
 * Electrum
 * Metamask
