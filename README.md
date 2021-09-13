@@ -63,9 +63,9 @@ Existem diversas formas de entrar no mundo das criptomoedas, nesse repositório 
 
 Para maiores informações sobre o funcionamento do bitcoin e sobre blockchain:
 
-<a href="https://bitcoin.org/pt_BR/como-funciona">https://bitcoin.org/pt_BR/como-funciona</a>
+<a href="https://bitcoin.org/pt_BR/como-funciona">Como funciona o bitcoin</a>
 
-<a href="https://blog.nubank.com.br/o-que-e-blockchain/">https://blog.nubank.com.br/o-que-e-blockchain/</a>
+<a href="https://blog.nubank.com.br/o-que-e-blockchain/">O que é blockchain</a>
 
 **_Termos relacionados a tecnologia_**:
 >Carteira = conta bancária
