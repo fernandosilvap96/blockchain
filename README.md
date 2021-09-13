@@ -153,7 +153,7 @@ Abaixo você vai encontrar o tutorial de criação para cada uma delas, basta es
   </p>
 </p>
 
-Caso nenhuma dessas carteiras lhe interesse, existem varias outras disponíveis na internet. O site www.bitcoin.org cita algumas opções.
+Caso nenhuma dessas carteiras lhe interesse, existem varias outras disponíveis na internet. O site <a href="www.bitcoin.org">www.bitcoin.org</a> cita algumas opções.
 
 <!-- Corretoras de Criptomoedas -->
 ## Corretoras de criptomoedas
@@ -170,7 +170,7 @@ Abaixo você vai encontar um tutorial de como criar conta em duas corretoras, a 
 
 Binance é uma corretora Chinesa intitulada a maior corretora de criptomoedas do mundo. Ela possui milhares de criptomoedas no seu catálogo e seus recursos como corretora são os mais avaçados do mercado.
 
-Site: https://www.binance.com/pt-BR
+Site: <a href="https://www.binance.com/pt-BR">https://www.binance.com/pt-BR</a>
 
 Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
@@ -180,7 +180,7 @@ Mercado Bitcoin é a corretora brasileira mais famosa, foi a primeira corretora 
 Por ser nacional seu suporte e sua acessibilidade são melhores que os dos concorrentes.
 Essa corretora não possui uma grande variedade de criptomoedas porém ela é ótima para quem está começando nesse mercado.
 
-Site: https://www.mercadobitcoin.com.br/
+Site: <a href="https://www.mercadobitcoin.com.br/">https://www.mercadobitcoin.com.br/</a>
 
 Para criar uma conta e aprender a usar os recursos da corretora <a href="https://github.com/">clique aqui</a>
 
@@ -191,9 +191,9 @@ Além das criptomoedas disponiveis no mercado, existem também os tokens. Eles s
 
 Há dois tipos de tokens no mercado, o utility token e o non fungible token(NFT), tokens utility servem para intermediar algum serviço ou produto, um exemplo de facil entendimento é o Chiliz, um token que pode ser usado para comprar participações de clubes esportivos, com direito a diversos serviços especificos de cada clube, apesar de poder ser vendido e comprado, sua principal finalidade é ser trocado por serviços. 
 
-NFTs são tokens unicos, ou seja, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto individual de cada token eleva o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
+NFTs são tokens unicos, ou seja, produtos criados virtualmente ou então produtos da vida real que foram digitalizados e gravados em alguma blockchain e portanto não possuem cópias. Esse aspecto exclusivo de cada token eleva o valor deles, esse é um tema muito novo e com uma promessa de grande demanda para o futuro. Varias empresas e artistas estão explorando esse mercado em potêncial.
 
-Noticia sobre algumas vendas de NFts com preços extremamente altos: https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10
+Noticia sobre algumas vendas de NFts com preços extremamente altos: <a href="https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10">https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10</a>
 
 <!-- ROADMAP -->
 ## Mercado de criptomoedas
@@ -203,7 +203,7 @@ A jornada de uma criptomoeda começa no seu desenvolvimento, startups iniciam pr
 
 A criptomoeda estreia no mercado crypto por meio do ICO(Initial Coin Offerings) processo muito similar ao IPO no mundo das bolsas de valores. Após estreiar no mercado a criptomoeda começa a ter seu valor medido pelas transações diárias de compra e venda, quanto mais movimento de mercado a criptomoeda tiver mais o valor dela vai subir.
 
-Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. https://coinmarketcap.com/ _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
+Um excelente site para acompanhar o mercado de criptomoedas é o CoinMarketCap. <a href="https://coinmarketcap.com/">https://coinmarketcap.com/</a> _Esse site pertence a Binance porém ele lista a maiorida das criptomoedas em circulação, mesmo as que não são encontradas na corretora_.
 
 Para uma criptomoeda entrar no CoinMarketCap ela passa por diversos processos de legitmidade.
 
