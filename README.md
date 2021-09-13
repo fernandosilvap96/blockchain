@@ -20,10 +20,10 @@
      <li>
        <a href="#carteira-de-criptomoedas">Carteira de criptomoedas</a>
        <ul>
-          <li><a href="#bitcoin-core---wallet">Bitcoin Core</a></li>
-          <li><a href="#electrum---wallet">Electrum</a></li>
-          <li><a href="#metamask---wallet">Metamask</a></li>
-          <li><a href="#trust---wallet">Trust Wallet</a></li>
+          <li><a href="#bitcoin-core--wallet">Bitcoin Core</a></li>
+          <li><a href="#electrum--wallet">Electrum</a></li>
+          <li><a href="#metamask--wallet">Metamask</a></li>
+          <li><a href="#trust--wallet">Trust Wallet</a></li>
       </ul>
      </li>
      <li>
