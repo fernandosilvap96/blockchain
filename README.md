@@ -11,7 +11,7 @@
        <a href="#inicio">Inicio</a>
      </li>  
      <li>
-       <a href="#carteira-de-criptomoedas">Carteira de criptomoedas</a>
+       <a href="#carteira-de-criptomoedas">Carteiras</a>
        <ul>
           <li><a href="#bitcoin-core-wallet">Bitcoin Core</a></li>
           <li><a href="#electrum-wallet">Electrum</a></li>
@@ -20,14 +20,14 @@
       </ul>
      </li>
      <li>
-        <a href="#corretoras-de-criptomoedas">Corretoras de criptomoedas</a>
+        <a href="#corretoras-de-criptomoedas">Corretoras</a>
        <ul>
          <li><a href="#binance">Binance</a></li>
          <li><a href="#mercado-bitcoin">Mercado Bitcoin</a></li>
        </ul>
      </li>
      <li><a href="#tokens">Tokens</a></li>
-     <li><a href="#mercado-de-criptomoedas">Mercado de criptomoedas</a></li>
+     <li><a href="#mercado-de-criptomoedas">Mercado</a></li>
      <li><a href="#considerações-finais">Considerações finais</a></li>
      <li><a href="#contato">Contato</a></li>
     </ol>
