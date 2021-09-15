@@ -1,8 +1,7 @@
 <h1 align="center">Introdução a Criptomoedas</h1>
 
-<center>
+
 <img src="cryptocurrency.jpg" alt="criptomoedas" width="900" height="500">
-</center>
   
 <!-- TABLE OF CONTENTS -->
 <p align="center">
