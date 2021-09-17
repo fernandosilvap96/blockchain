@@ -189,6 +189,8 @@ NFTs são tokens únicos, ou seja, produtos criados virtualmente ou então produ
 
 Notícia sobre algumas vendas de NFts com preços extremamente altos: <a href="https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10">https://forbes.com.br/forbes-tech/2021/04/os-10-nfts-mais-caros-da-historia/#foto10</a>
 
+Existem diversos mercados de NFT, o mais famoso é o <a href="https://opensea.io/">OpenSea</a>.
+
 <!-- ROADMAP -->
 ## Mercado de criptomoedas
 
